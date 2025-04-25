@@ -1,4 +1,5 @@
 # ![MuseScore](share/icons/musescore_logo_full.png)
+**Tested on macOS 13 (Ventura) running on Apple Silicon M1/M2 — `mscore --version` outputs 4.5.1.**
 
 Music notation and composition software
 
